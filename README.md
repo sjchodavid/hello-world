@@ -1,3 +1,4 @@
 # hello-world
 Beginning and testing computer programming...
-\nI'm going to get into computer sciences, data sciences and more.
+
+I'm going to get into computer sciences, data sciences and more.
